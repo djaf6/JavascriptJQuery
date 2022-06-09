@@ -1,1 +1,1 @@
-# JavascriptJQueryExercise
+# JavascriptJQuery

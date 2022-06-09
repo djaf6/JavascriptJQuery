@@ -1,0 +1,72 @@
+#title{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.orange{
+    color:wheat
+}
+
+.whitebox{
+    background-color: black;
+}
+
+p {
+    color: brown;
+}
+
+details p {
+    background-color: white;
+}
+
+div > p {
+    background-color: orange;
+}
+
+h3, section {
+    background-color: white;
+}
+
+h3 {
+    color:beige
+}
+
+body {
+    background-color: lightpink;
+}
+
+main{
+    background-color: white;
+    width: 700px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+#div1 {
+    
+    border: solid .1em black;
+    margin: .1em;
+    padding: .1em;
+    font-size: 20px;
+  }
+
+  div {
+    
+    border: solid .1em black;
+    margin: .1em;
+    padding: .1em;
+    font-size: 20px;
+  }
+
+  .pbox{
+    background-color: plum;
+    width: 200px;
+    height: 20px;
+    margin: 5px;
+    
+    border: 3px black;
+  }
